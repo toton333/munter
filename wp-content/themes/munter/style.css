@@ -1,0 +1,19 @@
+/*
+Theme Name: Munter
+Theme URI: localhost/munter
+Author: Bishan
+Author URI: localhost/munter
+Description: a slick onepage business website theme
+Version:1.0
+Tags: onepage, slick, business, scrolling
+*/
+
+/* to push content below admin bar*/
+.admin-bar .navbar-fixed-top {
+    margin-top: 30px ;
+}
+@media (max-width: 800px) {
+    .admin-bar .navbar-fixed-top {
+        margin-top: 46px ;
+    }
+}
